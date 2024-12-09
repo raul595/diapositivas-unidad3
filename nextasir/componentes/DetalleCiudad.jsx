@@ -73,9 +73,9 @@ function DetalleProvincia({nombre}){
 
   return (
     <>
-      {/* <Button variant="primary" onClick={handleShow}>
+      /* <Button variant="primary" onClick={handleShow}>
         Launch demo modal
-      </Button> */}
+      </Button> */
 
       <Modal show={show} size="lg"  onHide={handleClose} animation={false}>
         <Modal.Header closeButton>
